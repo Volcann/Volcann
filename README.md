@@ -1,6 +1,6 @@
 ![MasterHead](cover_photo.jpeg)
 <h1 align="center">Hi there 👋, I'm Muhammad Mohsin</h1>
-<h3 align="center">Passionate about Machine Learning | From Pakistan 🇵🇰</h3>
+<h3 align="center">Passionate about a career in machine learning | From Pakistan 🇵🇰</h3>
 
 I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in exploring the frontiers of AI and data science. Follow along as I journey through the realms of coding and machine intelligence!
 
