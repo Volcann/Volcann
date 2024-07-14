@@ -4,8 +4,6 @@
 
 I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in exploring the frontiers of AI and data science. Follow along as I journey through the realms of coding and machine intelligence!
 
-<img align="right" alt="Coding" width="400" src="">
-
 - 🌱 I’m currently learning **EDA and Feature engineering and looking forward to machine learning**
 
 - 💬 Ask me about **Numpy, Pandas and Matplotlib**
