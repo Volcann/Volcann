@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
 <h3 align="center">A passionate Machine learning student from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently learning **EDA and Feature engineering and looking forward to machine learning**
 
