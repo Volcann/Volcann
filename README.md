@@ -4,7 +4,7 @@
 
 I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in exploring the frontiers of AI and data science. Follow along as I journey through the realms of coding and machine intelligence!
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="400" src="">
 
 - 🌱 I’m currently learning **EDA and Feature engineering and looking forward to machine learning**
 
