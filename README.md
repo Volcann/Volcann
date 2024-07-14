@@ -1,21 +1,17 @@
 ![MasterHead](cover_photo.jpeg)
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.gradient-text {
-  background: linear-gradient(45deg, #ff9a9e, #fad0c4);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-</style>
-</head>
-<body>
-
-<h1 align="center" class="gradient-text">Hi there 👋, I'm Muhammad Mohsin</h1>
-
-</body>
-</html>
+<h1 align="center">
+  <svg width="800" height="60">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ff9a9e;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#fad0c4;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" fill="url(#grad1)" text-anchor="middle" dominant-baseline="middle" font-size="32" font-family="Arial">
+      Hi there 👋, I'm Muhammad Mohsin
+    </text>
+  </svg>
+</h1>
 <h3 align="center">Passionate about Machine Learning | From Pakistan 🇵🇰</h3>
 <img align="right" alt="Coding" width="400" src = "https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
