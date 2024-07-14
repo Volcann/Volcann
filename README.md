@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1UUmQlsIuEFLM3mPmSRVXjgkf_SINr0b2/view?usp=sharing)]
+[![MasterHead](cover_photo.jpeg)]
 <h1 align="center">Hi 👋, I'm Muhammad Mohsin</h1>
 <h3 align="center">A passionate Machine learning student from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
