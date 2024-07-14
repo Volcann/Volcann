@@ -12,7 +12,7 @@ I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in 
 
 - 📫 How to reach me **mohsinmuhammad823@gmail.com**
 
-- ⚡ Fun fact **I believe I excel at gaming**
+- ⚡ Fun fact **i think am excel at gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
