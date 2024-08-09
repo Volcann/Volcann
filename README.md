@@ -4,7 +4,7 @@
 
 I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in exploring the frontiers of AI and data science. Follow along as I journey through the realms of coding and machine intelligence!
 
-- 🌱 I’m currently exploring **about Machine learning and Generative AI**
+- 🌱 I’m currently exploring **machine learning and generative AI**
 
 - 💬 Ask me about **Data Preprocssing and Linear Regression**
 
