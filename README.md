@@ -4,13 +4,13 @@
 
 I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in exploring the frontiers of AI and data science. Follow along as I journey through the realms of coding and machine intelligence!
 
-- 🌱 I’m currently learning **EDA and Feature engineering and looking forward to machine learning**
+- 🌱 I’m currently learning **EDA and looking forward to Machine learning and Generative AI**
 
-- 💬 Ask me about **Numpy, Pandas and Matplotlib**
+- 💬 Ask me about **Data Preprocssing and Linear Regression**
 
 - 📫 How to reach me **mohsinmuhammad823@gmail.com**
 
-- ⚡ Fun fact **i think am excel at gaming**
+- ⚡ Fun fact: **I excel at quickly learning new technologies!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
