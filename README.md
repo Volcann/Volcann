@@ -6,7 +6,7 @@ I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in 
 
 - 🌱 I’m currently exploring **machine learning and generative AI**
 
-- 💬 Ask me about **Data Preprocssing and Linear Regression**
+- 💬 Ask me about **data preprocssing and linear regression**
 
 - 📫 How to reach me **mohsinmuhammad823@gmail.com**
 
