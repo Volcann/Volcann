@@ -6,7 +6,7 @@ I'm a dedicated machine learning enthusiast from Pakistan, deeply interested in 
 
 - 🌱 I’m currently learning **MLOPs**
 
-- 💬 Ask me about **Data preprocessing and Model Deployment**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **mohsinmuhammad823@gmail.com**
 
