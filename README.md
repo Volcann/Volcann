@@ -8,7 +8,7 @@ I'm a passionate machine learning enthusiast from Pakistan, excited to explore t
 
 - 📫 How to reach me **mohsinmuhammad823@gmail.com**
 
-- ⚡ Fun fact **I'm a quickly learner!**
+- ⚡ Fun fact **I'm a quick learner!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
