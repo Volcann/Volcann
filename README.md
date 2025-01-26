@@ -73,18 +73,19 @@ I'm a Python developer with a strong passion for machine learning and AI. I thri
 ---
 
 ## 🔗 Connect With Me:
+
 <p align="center">
   <a href="https://www.linkedin.com/in/volcann/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100038076616979" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/me_volcani/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://twitter.com/volcann_" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
@@ -92,16 +93,6 @@ I'm a Python developer with a strong passion for machine learning and AI. I thri
 
 ## ⚡ Fun Fact:
   * I'm a **quick learner** and thrive on solving challenges with Python. I’m always on the lookout for new technologies and tools to expand my knowledge and skills. 🚀
-
----
-
-## 📫 Contact Me:
-Feel free to reach out for any questions or collaboration opportunities!
-
-- **Email**: [mohsinmuhammad823@gmail.com](mailto:mohsinmuhammad823@gmail.com)
-- **LinkedIn**: [Muhammad Mohsin](https://www.linkedin.com/in/volcann/)
-- **Facebook**: [Muhammad Mohsin](https://www.facebook.com/profile.php?id=100038076616979)
-- **Instagram**: [me_volcani](https://www.instagram.com/me_volcani/)
 
 ---
 
