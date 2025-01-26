@@ -1,36 +1,39 @@
 ![MasterHead](cover_photo.jpeg)
 
-<h1 align="center">Hi there 👋, I'm Muhammad Mohsin</h1>
-<h3 align="center">Passionate Python Developer | Machine Learning Enthusiast | From Pakistan 🇵🇰</h3>
+# 👋 Hi there, I'm Muhammad Mohsin
+### Passionate Python Developer | Machine Learning Enthusiast | From Pakistan 🇵🇰
 
 <p align="center">
-  <i>I'm a passionate Python developer and machine learning enthusiast, constantly exploring new Python libraries and frameworks. Join me as I dive into the world of AI and data science, building impactful projects along the way!</i>
+  <i>Welcome to my world of Python, AI, and Data Science! Join me on my journey as I explore and build solutions that push the boundaries of technology. Let's create something awesome together! 💻✨</i>
 </p>
 
 ---
 
-<h3 align="center">🔹 Get in Touch 🔹</h3>
+## 🔹 About Me:
+I'm a Python developer with a strong passion for machine learning and AI. I thrive on building innovative solutions using Python, diving deep into data science, and exploring new tools and frameworks. 
+
+- 🌱 **Currently learning**: Deep Learning, TensorFlow, Keras
+- 💬 **Ask me about**: Python, Machine Learning, Data Science, AI
+- 📚 **Fun fact**: I'm a lifelong learner! I'm constantly experimenting with new libraries and concepts. 
+
+---
+
+## 📬 **How to Reach Me**:
 <p align="center">
-  <a href="https://www.linkedin.com/in/volcann/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100038076616979" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/me_volcani/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:mohsinmuhammad823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-@mohsinmuhammad823-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🧑‍💻 Technologies & Tools I Love:</h3>
+## 🧑‍💻 Technologies & Tools I Love:
 <p align="center">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50" />
@@ -44,40 +47,65 @@
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
-  </a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/django.svg" alt="Django" width="50" height="50" style="filter: invert(100%);" />
+</a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
   </a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/flask.svg" alt="Flask" width="50" height="50" />
+</a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />
+  </a>
+</p>
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volcann&show_icons=true&locale=en&layout=compact&hide=html,css&title_color=3498db&text_color=1f1f1f" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=volcann&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&line_height=27&title_color=3498db&text_color=1f1f1f&bg_color=ffffff" alt="GitHub Stats" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 🔗 Connect With Me:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volcann&show_icons=true&locale=en&layout=compact&hide=html,css&title_color=3498db&text_color=1f1f1f" alt="volcann" />
-</p>
-
----
-
-<h3 align="center">👨‍💻 Let’s Connect:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/volcann/" target="blank">  
-    <img src="https://img.shields.io/badge/Let's%20Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Talk" />
+  <a href="https://www.linkedin.com/in/volcann/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100038076616979" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/me_volcani/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/volcann_" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">
-  <i>I'm a fast learner and a Python enthusiast, and I love experimenting with new libraries and frameworks! 😊</i>
-</p>
+## ⚡ Fun Fact:
+  * I'm a **quick learner** and thrive on solving challenges with Python. I’m always on the lookout for new technologies and tools to expand my knowledge and skills. 🚀
 
 ---
 
-<h3 align="center">📫 Reach me at:</h3>
+## 📫 Contact Me:
+Feel free to reach out for any questions or collaboration opportunities!
+
+- **Email**: [mohsinmuhammad823@gmail.com](mailto:mohsinmuhammad823@gmail.com)
+- **LinkedIn**: [Muhammad Mohsin](https://www.linkedin.com/in/volcann/)
+- **Facebook**: [Muhammad Mohsin](https://www.facebook.com/profile.php?id=100038076616979)
+- **Instagram**: [me_volcani](https://www.instagram.com/me_volcani/)
+
+---
+
 <p align="center">
-  <i>mohsinmuhammad823@gmail.com</i>
+  <i>Thanks for stopping by! 😊 Let’s build something amazing together!</i>
 </p>
+
