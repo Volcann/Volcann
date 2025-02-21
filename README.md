@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Volcann/Volcann/blob/52fde89d26fb508df07aec3dba6bb08e9c4e3fc4/cover_photo_red.jpg)
+![MasterHead](https://github.com/Volcann/Volcann/blob/adadf15c7e6b7d8aa890624f0fafa0e02b03d3aa/Picsart_25-02-21_22-56-29-071.jpg)
 
 # 👋 Hi there, I'm Muhammad Mohsin
 ### Passionate Python Developer | Machine Learning Enthusiast | From Pakistan 🇵🇰
