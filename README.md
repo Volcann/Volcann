@@ -12,9 +12,9 @@
 ## 🔹 About Me:
 I'm a Python developer with a strong passion for machine learning and AI. I thrive on building innovative solutions using Python, diving deep into data science, and exploring new tools and frameworks. 
 
-- 🌱 **Currently learning**: Deep Learning, TensorFlow, Keras
-- 💬 **Ask me about**: Python, Machine Learning, Data Science, AI
-- 📚 **Fun fact**: I'm a lifelong learner! I'm constantly experimenting with new libraries and concepts. 
+- 🌱 **Currently learning**: Backend python(Django), ETL.
+- 💬 **Ask me about**: Python, Data Science, ML/AI.
+- 📚 **Fun fact**: Sipping coffee while searching for a research topic with ChatGPT.
 
 ---
 
@@ -92,7 +92,7 @@ I'm a Python developer with a strong passion for machine learning and AI. I thri
 ---
 
 ## ⚡ Fun Fact:
-  * I'm a **quick learner** and thrive on solving challenges with Python. I’m always on the lookout for new technologies and tools to expand my knowledge and skills. 🚀
+  *I'm a **quick learner** and eager to expand my knowledge and skills. 🚀*  
 
 ---
 
