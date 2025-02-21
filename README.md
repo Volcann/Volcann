@@ -1,4 +1,4 @@
-![MasterHead](cover_photo.jpeg)
+![MasterHead](https://github.com/Volcann/Volcann/blob/52fde89d26fb508df07aec3dba6bb08e9c4e3fc4/cover_photo_red.jpg)
 
 # 👋 Hi there, I'm Muhammad Mohsin
 ### Passionate Python Developer | Machine Learning Enthusiast | From Pakistan 🇵🇰
