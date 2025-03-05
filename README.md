@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Volcann/Volcann/blob/adadf15c7e6b7d8aa890624f0fafa0e02b03d3aa/Picsart_25-02-21_22-56-29-071.jpg)
 
 # 👋 Hi there, I'm Muhammad Mohsin
-### Passionate Python Developer | Machine Learning Enthusiast | From Pakistan 🇵🇰
+### Passionate Python Developer | Data Science Enthusiast | From Pakistan 🇵🇰
 
 <p align="center">
   <i>Welcome to my world of Python, AI, and Data Science! Join me on my journey as I explore and build solutions that push the boundaries of technology. Let's create something awesome together! 💻✨</i>
