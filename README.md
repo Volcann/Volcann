@@ -4,7 +4,8 @@
 ### Passionate Python Developer | Data Science Enthusiast | From Pakistan 🇵🇰
 
 <p align="center">
-  <i>Welcome to my world of Python, AI, and Data Science! Join me on my journey as I explore and build solutions that push the boundaries of technology. Let's create something awesome together! 💻✨</i>
+  <i>Welcome to my world of Python, AI, and Data Science! 🚀</i><br>
+  <i>Start on a journey where innovation meets intelligence, as I explore, experiment, and build inovative solutions that redefine possibilities. Let's push the boundaries of technology and create something extraordinary together! 💡💻✨</i>
 </p>
 
 ---
