@@ -68,7 +68,7 @@ I'm a Python developer with a strong passion for machine learning and AI. I thri
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=volcann&show_icons=true&locale=en&layout=compact&hide=html,css&title_color=3498db&text_color=1f1f1f" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=volcann&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&line_height=27&title_color=3498db&text_color=1f1f1f&bg_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=volcann&hide_border=true&theme=default&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 ---
