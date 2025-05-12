@@ -71,15 +71,6 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
   <img src="https://img.shields.io/badge/Anomaly%20Detection-000000?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Anomaly Detection" />
 </p>
 
-
----
-
-## 💻 Featured Projects
-
-- 🔗 [Real-time Chat App (Django + WebSocket)](https://github.com/Volcann/chat-app) – Chat rooms, read receipts, and filters in real time
-- 🔗 [Speedometer ML App](https://github.com/Volcann/speedometer-ai) – Predict braking, comfort, and riding behavior using ML
-- 🔗 [Wheels: Bikers Community](https://github.com/Volcann/wheels) – Group management & ride meetups for motorcycle enthusiasts
-
 ---
 
 ## 📊 GitHub Stats
