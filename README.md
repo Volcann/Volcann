@@ -76,7 +76,7 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Cool Octocat GIF" alt="Cool GitHub GIF" />
+  <img align="left" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Cool Octocat GIF" alt="Cool GitHub GIF" />
   <img src="https://github-readme-stats.vercel.app/api?username=Volcann&theme=github-dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Volcann&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
