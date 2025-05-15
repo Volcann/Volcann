@@ -1,7 +1,5 @@
-<!--
-README.md for Muhammad Mohsin (Volcann)
-Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks, activity graph
--->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
 
 <h1 align="center">👋 Hello there, I'm <b>Muhammad Mohsin</b></h1>
 
@@ -11,8 +9,6 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
   <br>
   <i>Let's innovate, explore, and build amazing solutions together. 💡💻✨</i>
 </p>
-
----
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/Volcann&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="Visitor Badge"/>
@@ -27,7 +23,8 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
 - 💬 Ask me about: Python, Backend Development, Machine Learning, Data Pipelines  
 - ☕️ Fun fact: Always sipping coffee while brainstorming deep tech ideas with ChatGPT 😄  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
 
 ## 🛠️ Technologies & Tools
 
@@ -71,7 +68,8 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
   <img src="https://img.shields.io/badge/Anomaly%20Detection-000000?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Anomaly Detection" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
 
 ## 📊 GitHub Stats
 
@@ -80,6 +78,8 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
   <img src="https://github-readme-stats.vercel.app/api?username=Volcann&theme=github-dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Volcann&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br><br>
 
 ## 📈 Activity Graph
 
@@ -87,7 +87,8 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Volcann&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
 
 ## 🔗 Connect With Me
 
@@ -103,7 +104,8 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<br><br>
 
 <p align="center">
   <i>Thanks for stopping by! 😊 Let’s build something amazing together!</i>
