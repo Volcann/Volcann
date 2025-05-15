@@ -6,7 +6,7 @@ Enhanced with cool visuals: GIF, badges, visitor counter, GitHub stats, streaks,
 <h1 align="center">👋 Hello there, I'm <b>Muhammad Mohsin</b></h1>
 
 <p align="center">
-  <img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Cool Octocat GIF"/>
+  <img align="right" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="Cool Octocat GIF"/>
   <i>Welcome to my world of Python, AI, and Machine Learning! 🚀</i>
   <br>
   <i>Let's innovate, explore, and build amazing solutions together. 💡💻✨</i>
