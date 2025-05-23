@@ -16,7 +16,7 @@
 
 ## 🔹 About Me
 
-- 🎓 Passionate **Python Backend Developer** & **Data Science Enthusiast** from Pakistan 🇵🇰  
+- 🎓 Passionate **Python Backend Developer** & **Machine Learning Enthusiast** from Pakistan 🇵🇰  
 - 🚀 Skilled in: Django, Flask, DRF, Celery, Redis, SQL/PostgreSQL, TensorFlow, Scikit-learn, Pandas, NumPy  
 - 🌐 Familiar with: Cloud Services (AWS, GCP), API Testing, ML Algorithms, Data Analysis, and Deployments  
 - 🌱 Currently learning: **ETL Pipelines**, **Apache Airflow**, **PySpark**, **Kafka-Python**, and advanced ML techniques  
