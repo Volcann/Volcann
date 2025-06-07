@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <br><br>
 
-<h1 align="center">👋 Hello there,  I'm <b>Muhammad Mohsin</b></h1>
+<h1 align="center">👋 Hello there,  I'm <b>Mohsin Ali</b></h1>
 
 <p align="center">
   <img align="right" width="200px" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMjkxNTgsIm5iZiI6MTc0NzMyODg1OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDE3MDczOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwNTQ1ODY2Yjk5MmFhMWNmMWI0MmIxMmFkZTEyODBiMDI4MDQwOTJhNTZjZDNlYjdkMDRmZGNhMDRhNzcwOGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.WfFHU-M5GCFY3uv-YmeznKJ_aY7et-DlYsOWrs2Mkfw" alt="Cool Octocat GIF"/>
