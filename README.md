@@ -1,6 +1,4 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br><br>
-
 <h1 align="center">👋 Hello there,  I'm <b>Mohsin Ali</b></h1>
 
 <p align="center">
@@ -24,7 +22,6 @@
 - ☕️ Fun fact: Always sipping coffee while brainstorming deep tech ideas with ChatGPT 😄  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br><br>
 
 ## 🛠️ Technologies & Tools
 
@@ -69,7 +66,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br><br>
 
 ## 📊 GitHub Stats
 
@@ -78,8 +74,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Volcann&theme=github-dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Volcann&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br><br>
 
 ## 📈 Activity Graph
 
@@ -88,7 +84,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br><br>
 
 ## 🔗 Connect With Me
 
@@ -105,7 +100,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<br><br>
 
 <p align="center">
   <i>Thanks for stopping by! 😊 Let’s build something amazing together!</i>
@@ -117,4 +111,4 @@
   <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
 </picture>
 
-**Inspired by [Cameron Foxly](https://github.com/CameronFoxly) – check out their GitHub!**
+> **Inspired by [Cameron Foxly](https://github.com/CameronFoxly) – check out their GitHub!**
