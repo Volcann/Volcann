@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+Developer;ML+Enthusiast;AI+Researcher;Building+cool+AI+Stuff;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Building+cool+AI+Projects;ML+Enthusiast;Backend+Developer;AI+Researcher;)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Hello there,  I'm <b>Mohsin Ali</b></h1>
 
