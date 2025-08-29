@@ -19,12 +19,12 @@
 
 ## 🔹 About Me
 
-- 🎓 Passionate **Python Backend Developer** & **Machine Learning Enthusiast** from Pakistan 🇵🇰  
-- 🚀 Skilled in: Django, Flask, DRF, Celery, Redis, SQL/PostgreSQL, TensorFlow, Scikit-learn, Pandas, NumPy  
-- 🌐 Familiar with: Cloud Services (AWS, GCP), API Testing, ML Algorithms, Data Analysis, and Deployments  
-- 🌱 Currently learning: **ETL Pipelines**, **Apache Airflow**, **PySpark**, **Kafka-Python**, and advanced ML techniques  
-- 💬 Ask me about: Python, Backend Development, Machine Learning, Data Pipelines  
-- ☕️ Fun fact: Always sipping coffee while brainstorming deep tech ideas with ChatGPT 😄  
+- 🎓 Passionate **Backend Developer** & **Machine Learning Enthusiast** from Pakistan 🇵🇰
+- 🚀 Skilled in: Backend Development.
+- 🌱 Currently learning: **NestJS**, **Django**.
+- 💬 Ask me about: Backend Development and Machine Learning.
+- ☕️ Fun fact: Always sipping coffee while brainstorming deep tech ideas with ChatGPT 😄
+- ✨ Extra Skills: Quick Learner, need minimal guidance, good at making complex ideas simple.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
