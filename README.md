@@ -20,15 +20,12 @@
 
 <img src="https://img.shields.io/badge/-007ACC?style=flat&line-height=1&width=1000" width="100%" height="3px">
 
-## 🔹 About Me
+## About Me
 
-- 🤖 **AI Engineer** & **Backend Developer** from Pakistan 🇵🇰 — shipping agentic AI systems and production-grade APIs
-- 🧠 Specializing in: **LangGraph**, **Agentic AI Pipelines**, **Reinforcement Learning**, **LLM Integration**
-- 🚀 Currently building: Multi-agent systems with LangGraph + Django REST + NestJS
-- 🔬 Researching: Heuristic vs. RL agent architectures in deterministic environments
-- 🛠️ Hands-on with: MCP (Model Context Protocol) server design & Gemini CLI tooling
-- 💬 Ask me about: **LangGraph agent design**, **Backend APIs**, **ML model deployment**, **RL from scratch**
-- ☕ Fun fact: I train RL agents at 2 AM while letting Gemini handle the boring terminal work
+- Software engineer based in Lahore, working at an AI company where backend reliability is not optional.
+- 🤖 My interest: I want to understand how to architect systems around LLMs that actually hold up under real usage.
+- 📖 Currently going deeper on **LangGraph**, **RAG pipelines**, and **pgvector**.
+- ⚡ Still early in the journey, but I ship real things and I know the difference between a demo and a production system
 
 <img src="https://img.shields.io/badge/-007ACC?style=flat&line-height=1&width=1000" width="100%" height="3px">
 
