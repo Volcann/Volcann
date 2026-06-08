@@ -1,0 +1,45 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Run every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  # Also run on push to main branch
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/snake.yml'
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if files were generated
+          if [ -f "dist/github-snake.svg" ] && [ -f "dist/github-snake-dark.svg" ]; then
+            git add dist/
+            git commit -m "🎉 Auto-generate snake animation" || echo "No changes to commit"
+            git push || echo "Nothing to push"
+          else
+            echo "Snake files not generated"
+          fi
