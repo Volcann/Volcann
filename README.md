@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&color=36BCF7&color2=7F00FF&lines=👋+Hello%2C+I'm+Mohsin+Ali;AI+Engineer+%7C+Backend+Developer;Building+Agentic+AI+Systems;Reinforcement+Learning+Researcher;LangGraph+%7C+Django+%7C+NestJS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&color=36BCF7&lines=Mohsin+Ali+%E2%80%94+Software+Engineer;Backend+Systems+%7C+Applied+AI+Development;Building%3A+RAG+Pipelines+%7C+Agentic+Workflows;Open+to+Backend+%26+AI+Engineering+Roles" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <i>Building with Python, AI, and Machine Learning while exploring scalable systems and practical solutions.</i>
+  <i>Software engineer with production backend experience, currently deepening work in applied AI and system design.</i>
   <br>
-  <i>Curious by nature, driven by growth, and focused on creating technology that makes an impact.</i>
+  <i>Focused on building systems that are reliable in production, not just impressive in demos.</i>
 </p>
 
 <p align="center">
