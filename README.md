@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&color=36BCF7&lines=Mohsin+Ali+%E2%80%94+Software+Engineer;Backend+Systems+%7C+Applied+AI+Development;Building%3A+RAG+Pipelines+%7C+Agentic+Workflows;Open+to+Backend+%26+AI+Engineering+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&color=36BCF7&lines=Mohsin+Ali+%E2%80%94+Software+Engineer;Backend+Systems+%7C+Applied+AI+Development;Building%3A+Motorcycle+ADAS+%7C+Sensor+Fusion;RAG+Pipelines+%7C+Agentic+Workflows;Open+to+Backend+%26+AI+Engineering+Roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,14 +22,23 @@
 
 ## About Me
 
-- Software engineer based in Lahore, working at an AI company where backend reliability is not optional.
-- 🤖 My interest: I want to understand how to architect systems around LLMs that actually hold up under real usage.
-- 📖 Currently going deeper on **LangGraph**, **RAG pipelines**, and **pgvector**.
-- ⚡ Still early in the journey, but I ship real things and I know the difference between a demo and a production system
+- Backend engineer at an AI company in Lahore — where reliability is not optional and demos don't count.
+- Currently building a **motorcycle blind spot detection system** as thesis research: CARLA simulation, IMU lean-angle filtering, and radar/camera fusion across 8 adversarial driving scenarios. The core idea — suppressing false positives caused by road lean — is the kind of problem that only shows up when you go past the happy path.
+- Previously shipped a **Gmail template testing tool** that automated full Jinja2 branch coverage and cut QA time from 15 minutes to 2 minutes per template.
+- ⚡ Still early in the journey — but I know the difference between a working demo and a production system, and I aim for the latter.
 
 <img src="https://img.shields.io/badge/-007ACC?style=flat&line-height=1&width=1000" width="100%" height="3px">
 
 ## 🛠️ Technologies & Tools
+
+**Simulation & Safety Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/CARLA_Simulator-20232A?style=for-the-badge&logoColor=white" alt="CARLA" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/MQTT_(Mosquitto)-660066?style=for-the-badge&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
+</p>
 
 **AI Engineering & Agents**
 <p align="left">
@@ -47,15 +56,13 @@
 
 **Backend Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" />
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=green" alt="DRF" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django Rest Framework" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Celery-3800B0?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 **Cloud & Infrastructure**
@@ -109,4 +116,6 @@
   <i>Appreciate you stopping by. Always happy to connect, learn, and build meaningful things.</i>
 </p>
 
-> ⭐️ Fun Fact: I believe curiosity drives learning, so I’m always exploring new ideas, solving problems, and building things that challenge me.
+> ⭐️ Fun Fact: I believe curiosity drives learning, so I'm always exploring new ideas, solving problems, and building things that challenge me.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
