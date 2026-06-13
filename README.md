@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-007ACC?style=flat&line-height=1&width=1000" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![snake animation](https://raw.githubusercontent.com/Volcann/Volcann/main/dist/github-snake-dark.svg)
 
@@ -18,7 +18,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/Volcann&label=VISITORS&labelColor=%23000&countColor=%230A0209" alt="Visitor Badge"/>
 </p>
 
-<img src="https://img.shields.io/badge/-007ACC?style=flat&line-height=1&width=1000" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## About Me
 
@@ -27,7 +27,7 @@
 - Previously shipped a **Gmail template testing tool** that automated full Jinja2 branch coverage and cut QA time from 15 minutes to 2 minutes per template.
 - ⚡ Still early in the journey — but I know the difference between a working demo and a production system, and I aim for the latter.
 
-<img src="https://img.shields.io/badge/-007ACC?style=flat&line-height=1&width=1000" width="100%" height="3px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Technologies & Tools
 
@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">GitHub Stats </h3>
 
@@ -80,7 +80,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=volcann&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"> 🔗 Connect With Me </h2>
 
@@ -96,12 +96,12 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <i>Appreciate you stopping by. Always happy to connect, learn, and build meaningful things.</i>
 </p>
 
-> ⭐️ Fun Fact: I believe curiosity drives learning, so I'm always exploring new ideas, solving problems, and building things that challenge me.
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+> ⭐️ Fun Fact: I believe curiosity drives learning, so I'm always exploring new ideas, solving problems, and building things that challenge me.
