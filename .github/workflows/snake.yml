@@ -26,9 +26,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
         env:
-          # Use secrets.SNAKE_PAT (with User: Read-only) for private commits,
-          # or secrets.GITHUB_TOKEN if you only want public commits.
-          GITHUB_TOKEN: ${{ secrets.SNAKE_PAT }}
+          # Use secrets.GITHUB_TOKEN as the fallback token for public commits.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
