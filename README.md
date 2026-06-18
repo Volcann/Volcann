@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![snake animation](https://raw.githubusercontent.com/Volcann/Volcann/main/dist/github-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/Volcann/Volcann/output/github-snake-dark.svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
