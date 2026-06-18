@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
   push:
     branches:
@@ -29,6 +29,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_PAT }}
       
       - name: Commit and push changes
         run: |
