@@ -113,10 +113,73 @@
 
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-3d-contrib/profile-night-green.svg" />
+    <img alt="3D Contribution Graph" src="./assets/profile-3d-contrib/profile-night-green.svg" />
 </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏛️ Engineering & Architecture Reference
+
+### Architecture & System Flow
+
+This repository operates as an automated asset generation system:
+* **Asset Pipeline**: Scheduled GitHub Actions workflows trigger on specific cron patterns or manually via `workflow_dispatch`.
+* **Execution**: Workflows fetch current contribution data from the GitHub API and render SVG-based visualization assets.
+* **Storage**: Generated assets (such as the contribution snake and 3D graphs) are written directly back to the workspace or pushed to the `output` branch.
+* **Rendering**: The `README.md` references the generated SVG assets dynamically.
+
+### Design Decisions
+
+* **Asset Decoupling**: Build files (like the generated snake SVGs) are isolated from source tracking, keeping history light.
+* **Zero-Dependency Validation**: The test suite is implemented using pure Python with standard libraries, preventing third-party vulnerability vectors or installation overhead.
+* **Theme Standards**: Visual assets match specific dark/light theme options (`github-dark`, `profile-night-green`) to maintain a polished design language.
+
+### Development Workflow
+
+* **Setup**: Build the development context and register verification checks locally by executing `make setup`.
+* **Verification**: Prior to commits, developers run:
+  * `make test` to execute the local Python-based test suite.
+  * `make lint` to format, validate YAML configurations, and run quality checks.
+* **Gatekeeping**: Pre-commit hooks run automated syntax validations and local verification checks.
+
+### Testing Strategy
+
+* **Unit Testing**: Checks all `.svg` files inside the repository for valid XML structures, empty files, and correct `<svg>` root namespace tags.
+* **Integration Testing**: Scrapes `README.md` for local image and link references and cross-references them against actual filesystem paths.
+* **Continuous Integration**: The `ci` workflow executes linting and testing checks on every push and pull request.
+
+### Deployment & Release Strategy
+
+* **Execution**: Automations run on scheduling crons and commit updates to branch paths (`main` and `output`).
+* **Tagging**: Releases are version-tagged using standard semver conventions.
+* **Rollback**: In case of failing workflow updates, previous SVG assets can be restored by reverting the commit or redeploying from previous workflow run logs.
+
+### Security Considerations
+
+* **Least Privilege**: GitHub Actions run under strict, minimal permission scopes.
+* **Action Pinning**: Action steps use full SHA commit hashes instead of mutable branch/release tags to eliminate supply chain threats.
+* **Vulnerability Scanning**: Automated SAST checking is executed regularly on repository code.
+
+### Scalability Considerations
+
+* **Concurrency Control**: Concurrency groups cancel redundant workflow runs when new changes are pushed.
+* **Timeout Restrictions**: Workflow jobs are capped with maximum timeout boundaries to prevent hung actions and limit compute consumption.
+
+### Performance Considerations
+
+* **Lightweight Assets**: SVGs are compressed, minimizing page load times for profile visitors.
+* **Local Test Speed**: Pure Python tests run in under 0.2 seconds.
+
+### Observability
+
+* **CI Checks**: Code validations and lint status updates are reported directly to the PR checks panel.
+* **Structured Failure Analysis**: Failed workflow runs trigger notifications and log clean diagnostics for error categorization.
+
+### Troubleshooting
+
+* **Broken Asset Links**: Run `make test` locally to verify that all file references are correct.
+* **Permissions Failures**: Ensure the repository settings have "Read and write permissions" enabled under the Actions panel for workflow updates.
