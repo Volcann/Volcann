@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+.pre-commit/
+.DS_Store
+dist/
+profile-3d-contrib/
