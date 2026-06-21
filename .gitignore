@@ -7,5 +7,3 @@ venv/
 htmlcov/
 .pre-commit/
 .DS_Store
-dist/
-profile-3d-contrib/
