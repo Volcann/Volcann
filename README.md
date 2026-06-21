@@ -1,6 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![snake animation](https://raw.githubusercontent.com/Volcann/Volcann/main/dist/github-snake-dark.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Volcann/Volcann/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Volcann/Volcann/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -79,6 +84,19 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=volcann&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="50" height="50" /> 3D Contribution Map
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-gitblock.svg" />
+  </picture>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
