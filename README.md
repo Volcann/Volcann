@@ -111,6 +111,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <div align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-3d-contrib/profile-night-green.svg" />
@@ -120,13 +122,4 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ⚙️ Automation & Workflows
-
-This profile is automatically updated using GitHub Actions:
-* **3D Contribution Graph**: Generated daily by `.github/workflows/profile-3d.yml` and stored in `assets/profile-3d-contrib/`.
-* **Contribution Snake**: Generated twice daily by `.github/workflows/snake.yml` and pushed to the `output` branch.
-* **Design Decisions**: Assets are decoupled from source history by pushing build outputs to a separate branch (`output`), maintaining a clean and compact repository structure.
-* **Security & Reliability**: Workflows are hardened using explicit least-privilege permission scopes and job timeouts.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
