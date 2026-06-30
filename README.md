@@ -107,7 +107,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-> ⭐️ Fun Fact: I believe curiosity drives learning, so I'm always exploring new ideas, solving problems, and building things that challenge me.
+> ⭐️ Fact: AI is trained on human data. That’s why it estimates a three-month sprint, even though it can build the project in three minutes
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
