@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&color=36BCF7&lines=Mohsin+Ali+%E2%80%94+Software+Engineer;Backend+Systems+%7C+Applied+AI+Development;Building%3A+Motorcycle+ADAS+%7C+Sensor+Fusion;RAG+Pipelines+%7C+Agentic+Workflows;Open+to+Backend+%26+AI+Engineering+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=700&color=36BCF7&lines=Muhammad+Mohsin+%7C+Backend+Software+Engineer;Django+%7C+NestJS+%7C+PostgreSQL;Aevora+%2B+Utils+%7C+Celery-powered+tools;LangGraph+Workflows+%7C+React+Interfaces;Open+to+Backend+Engineering+Roles" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <i>Software engineer with production backend experience, currently deepening work in applied AI and system design.</i>
+  <i>Associate Software Engineer at Folium AI, building backend services and useful developer tools.</i>
   <br>
-  <i>Focused on building systems that are reliable in production, not just impressive in demos.</i>
+  <i>Working across Django, NestJS, PostgreSQL, Redis, Celery, and React/Next.js.</i>
 </p>
 
 <p align="center">
@@ -27,52 +27,60 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## About Me
-
-- Backend engineer at an AI company in Lahore — where reliability is not optional and demos don't count.
-- Currently building a **motorcycle blind spot detection system** as thesis research: CARLA simulation, IMU lean-angle filtering, and radar/camera fusion across 8 adversarial driving scenarios. The core idea — suppressing false positives caused by road lean — is the kind of problem that only shows up when you go past the happy path.
-- Previously shipped a **Gmail template testing tool** that automated full Jinja2 branch coverage and cut QA time from 15 minutes to 2 minutes per template.
-- ⚡ Still early in the journey — but I know the difference between a working demo and a production system, and I aim for the latter.
-
+About Me
+I'm Muhammad Mohsin, a software engineer based in Lahore. At Folium AI, I build backend features for client products and contribute to React/Next.js interfaces for an internal platform. I also build tools that make engineering workflows easier to run and maintain.
+Work at Folium AI
+- Backend services: Built Stripe subscription flows, Django Channels WebSocket notifications, and NestJS audio processing for client products.
+- Client savings assistant: Built a LangGraph assistant that routes user intent to goal creation, updates, listing, and status tools so users can manage goals through chat.
+- Employee review workflows: Worked on Django performance and notification services and React/Next.js review screens. The UI shows KPI criteria while keeping employee scores hidden until finalization.
+Featured Projects
+Aevora + Utils
+- Problem: Separate local setups made developer utilities harder to share and update.
+- Solution: Built authenticated Django/Next.js chat that selects relevant tools and sends PR review, status report, and workspace setup tasks to a shared Celery worker through Redis. Aevora streams chat and task events to the browser via SSE.
+- Impact: Users can request these tools from one interface while their dependencies and updates stay in the shared worker.
+OneDrop
+- Problem: Sharing a sensitive file through a hosted service creates another stored copy.
+- Solution: Built a Python HTTPS sender for direct LAN/VPN transfer with capability links, token checks, SHA-256 integrity display, and token-redacted audit logs.
+- Impact: A link permits one download by default, then expires and shuts down the server.
+LeanGuard
+- Research focus: Exploring motorcycle blind-spot detection in CARLA with simulated radar and IMU inputs and lean-angle filtering.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Technologies & Tools
-
-**Simulation & Research**
+🛠️ Technologies & Tools
+Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/CARLA-20232A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django_DRF-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Celery-3800B0?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-**AI & Agents**
+Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-6A0DAD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="RTK Query" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-**Backend**
+AI & Research
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_DRF-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img src="https://img.shields.io/badge/Celery-3800B0?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/CARLA-20232A?style=for-the-badge&logoColor=white" alt="CARLA" />
+  <img src="https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" alt="MQTT" />
 </p>
 
-**Infrastructure & DevOps**
+Infrastructure & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -95,8 +103,9 @@
   <a href="mailto:mohsinmuhammad823@gmail.com">
     <img src="https://img.shields.io/badge/Email-mohsinmuhammad823-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/volcann/">
-    <img src="https://img.shields.io/badge/LinkedIn-Volcann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohsinaidev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Mohsin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -107,7 +116,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-> ⭐️ Fact: AI is trained on human data. That’s why it estimates a three-month sprint, even though it can build the project in three minutes
+⭐️ Fact: AI is trained on human data. That’s why it estimates a three-month sprint, even though it can build the project in three minutes
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
